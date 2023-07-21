@@ -1,0 +1,3 @@
+com\cg\training\config\WebAppInitializer.class
+com\cg\training\controller\HomeController.class
+com\cg\training\config\AppViewResolver.class

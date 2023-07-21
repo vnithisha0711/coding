@@ -1,0 +1,5 @@
+com\cg\training\dao\impl\EmployeeDAOImpl.class
+com\cg\training\config\HibernateConfiguration.class
+com\cg\training\dao\EmployeeDAO.class
+com\cg\training\entity\Employee.class
+com\cg\training\client\EmployeeClient.class
