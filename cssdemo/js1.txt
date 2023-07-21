@@ -1,0 +1,15 @@
+<html>
+<head>
+<script type="text/javascript">
+function getSum(){
+alert()
+}
+</script>
+<body>
+
+<form>
+<input type="button" onclick="getSum()" value="PRESS">
+</form>
+</body>
+</head>
+</html>
